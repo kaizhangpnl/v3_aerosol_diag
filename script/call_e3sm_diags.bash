@@ -38,7 +38,7 @@ tag="model_vs_model"
 #.........................................................
 # www
 #.........................................................
-www="/lcrc/group/e3sm/public_html/diagnostic_output/ac.kzhang/T1"
+www="/lcrc/group/e3sm/public_html/diagnostic_output/ac.kzhang/prod"
 
 #www_name="diag_04tri04bi_0101_0200"
 #www_name="diag_04tri04bi_0201_0300"
