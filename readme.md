@@ -44,14 +44,17 @@
 #### v3alpha03_bigrid vs. v3alpha02
 
 - https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_03bi02bi_0001_0100/model_vs_model_0001-0100/viewer/
-
+  
 #### v3alpha02 vs. v3alpha01
 
-- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_02bi01bi_v21_0001_0100/model_vs_model_0001-0100/viewer/
+- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_02bi01bi_0001_0100/model_vs_model_0001-0100/viewer/ 
 
-#### v3alpha01 vs. v3atm_v21
+#### v3alpha01 vs. v2 
 
-- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_01biv3atm_v21_0001_0100/model_vs_model_0001-0100/viewer/
+- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_v3alpha01v2_0001_0100/model_vs_model_0001-0100/viewer/
 
+#### v2 vs. v1 
+
+- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_v2v1_0001_0100/model_vs_model_0001-0100/viewer/ 
 
 
