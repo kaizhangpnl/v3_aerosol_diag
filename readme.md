@@ -4,7 +4,8 @@
 
 - v3atm_v21 (https://acme-climate.atlassian.net/wiki/spaces/CM/pages/3695214789/20230224.v3atm+v21.piControl.chrysalis) 
   - NGD_v3atm_v2.1ocnice_alt 
-- v3alpha01 (https://acme-climate.atlassian.net/wiki/spaces/CM/pages/3826712577/20230616.v3alpha01.piControl.chrysalis) 
+- v3alpha01 (https://acme-climate.atlassian.net/wiki/spaces/CM/pages/3826712577/20230616.v3alpha01.piControl.chrysalis)
+  - aqueous chemistry bug fix 
   - decoupled SOA (gas reactions) from Chem UCI to improve the low ozone bias
   - ZM changes to improve energy conservation
   - lowered optimization on ZM to make results consistent across machines (compy vs pm-cpu)
