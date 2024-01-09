@@ -27,11 +27,45 @@
   - Slight retuning of autoconversion exponent to minimize drift
     - p3_nc_autocon_expon = -1.10D0
   - TOP parameterization: use_top_solar_rad = .true.
-- v3alpha04_trigrid (https://acme-climate.atlassian.net/wiki/spaces/CM/pages/3929440257/20230924.v3alpha04+trigrid.piControl.chrysalis) 
-  
+- v3alpha04_trigrid (https://acme-climate.atlassian.net/wiki/spaces/CM/pages/3929440257/20230924.v3alpha04+trigrid.piControl.chrysalis) Based on 20230918.v3alpha04_bigrid.piControl.chrysalis but 
+  - tri-grid
+  - nonlinear maps for tri-grid
+  - custom PE-Layout (100 nodes)
+  - land trigrid spinup IC 
+- v3alpha04_trigrid_bgc (https://acme-climate.atlassian.net/wiki/spaces/CM/pages/3929440257/20230924.v3alpha04+trigrid.piControl.chrysalis) Based on 20230924.v3alpha04_trigrid.piControl.chrysalis except for
+  - Land BGC feature
+  - Land setting and IC preparation
+  - a new custom PE-Layout (100 nodes)
+  - H2OLNZ is added to eam.h0 per E3SM Diags request
+- v3b01 (https://acme-climate.atlassian.net/wiki/spaces/CM/pages/3984261154/20231105.v3b01.piControl.chrysalis) Based on 20231027.v3alpha04_trigrid_ECwISC30to60E3r2.piControl.chrysalis except for
+  - Land BGC feature
+  - Land setting and IC preparation
+  - a new custom PE-Layout (100 nodes)
+  - atm PR changes
+  - new atm tuning parameter setting: dust_emis_fact =  13.8D0
+  - new variables are added for dust emission
+  - L80 atm model setting
+- v3b02 (https://acme-climate.atlassian.net/wiki/spaces/CM/pages/4005068802/20231117.v3b02.piControl.chrysalis) Based on 20231106.v3b01-AB2.piControl.chrysalis except for
+  - smoothed bathymetry (included through patching MPAS ocean and seaice stream files)
+  - a new custom PE-Layout (96 nodes)
+  - atm gustiness fix
+  - atm rough topography 
+
 ## Results (newest first) 
 
 ### piControl  
+
+#### v3b02 vs. v3b01 
+
+- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_v3b02v3b01_0001_0100/model_vs_model_0001-0100/viewer/ 
+
+#### v3b01 vs. v3alpha04_trigrid_bgc 
+
+- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_v3b01v04tribgc_0001_0100/model_vs_model_0001-0050/viewer/
+
+#### v3alpha04_trigrid_bgc vs. v3alpha04_trigrid
+
+https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_04tribgc04tri_0001_0100/model_vs_model_0001-0100/viewer/
 
 #### v3alpha04_trigrid vs. v3alpha04_bigrid 
 
