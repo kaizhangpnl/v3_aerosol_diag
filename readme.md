@@ -68,38 +68,47 @@
 
 #### v3b02 vs. v3b01 
 
-- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_v3b02v3b01_0001_0100/model_vs_model_0001-0100/viewer/ 
+- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_v3b02v3b01_0001_0100/model_vs_model_0001-0100/viewer/
+- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/diag/diag_v3b02.piControl_v3b01.piControl/
 
 #### v3b01 vs. v3alpha04_trigrid_bgc 
 
 - https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_v3b01v04tribgc_0001_0100/model_vs_model_0001-0050/viewer/
+- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/diag/diag_v3b01.piControl_v3alpha04_trigrid_bgc.piControl/
 
 #### v3alpha04_trigrid_bgc vs. v3alpha04_trigrid
 
-https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_04tribgc04tri_0001_0100/model_vs_model_0001-0100/viewer/
+- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_04tribgc04tri_0001_0100/model_vs_model_0001-0100/viewer/
+- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/diag/diag_v3alpha04_trigrid_bgc.piControl_v3alpha04_trigrid.piControl/
 
 #### v3alpha04_trigrid vs. v3alpha04_bigrid 
 
-- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_04tri04bi_0001_0100/model_vs_model_0001-0100/viewer/ 
+- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_04tri04bi_0001_0100/model_vs_model_0001-0100/viewer/
+- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/diag/diag_v3alpha04_trigrid.piControl_v3alpha04_bigrid.piControl/
 
 #### v3alpha04_bigrid vs. v3alpha03_bigrid
 
 - https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_04bi03bi_0001_0100/model_vs_model_0001-0100/viewer/
+- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/diag/diag_v3alpha04_bigrid.piControl_v3alpha03_bigrid.piControl/
 
 #### v3alpha03_bigrid vs. v3alpha02
 
 - https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_03bi02bi_0001_0100/model_vs_model_0001-0100/viewer/
+- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/diag/diag_v3alpha03_bigrid.piControl_v3alpha02.piControl/
   
 #### v3alpha02 vs. v3alpha01
 
-- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_02bi01bi_0001_0100/model_vs_model_0001-0100/viewer/ 
+- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_02bi01bi_0001_0100/model_vs_model_0001-0100/viewer/
+- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/diag/diag_v3alpha02.piControl_v3alpha01.piControl/
 
 #### v3alpha01 vs. v2 
 
 - https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_v3alpha01v2_0001_0100/model_vs_model_0001-0100/viewer/
+- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/diag/diag_v3alpha01.piControl_v2.LR.piControl/
 
 #### v2 vs. v1 
 
-- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_v2v1_0001_0100/model_vs_model_0001-0100/viewer/ 
+- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_v2v1_0001_0100/model_vs_model_0001-0100/viewer/
+
 
 
