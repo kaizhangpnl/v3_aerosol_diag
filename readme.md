@@ -50,10 +50,21 @@
   - a new custom PE-Layout (96 nodes)
   - atm gustiness fix
   - atm rough topography 
+- v3-spinup (https://acme-climate.atlassian.net/wiki/spaces/CM/pages/4032626741/20231209.v3.LR.piControl-spinup.chrysalis) 
+  - casename = 20231209.v3.LR.piControl-spinup.chrysalis
+  - compset = WCYCL1850
+  - resolution = ne30pg2_r05_IcoswISC30E3r5
+  - ne30pg2: atmosphere (ne30 dynamics grid, pg2 physics grid)
+  - r05: land and river on 1/2 lat/lon grid (commonly referred to as “tri-grid”)
+  - IcoswISC30E3r5: ocean and sea-ice on Icosahedral 30 km mesh with ice shelves cavities (wISC), E3SMv3 (E3) revision r5.
 
 ## Results (newest first) 
 
 ### piControl  
+
+#### v3-spinup vs. v3b02 (not all variables are available) 
+
+- https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_v3spinupv3b02_0001_0100/model_vs_model_0001-0100/viewer/  
 
 #### v3b02 vs. v3b01 
 
