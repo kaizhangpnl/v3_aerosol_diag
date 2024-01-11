@@ -32,7 +32,7 @@
   - nonlinear maps for tri-grid
   - custom PE-Layout (100 nodes)
   - land trigrid spinup IC 
-- v3alpha04_trigrid_bgc (https://acme-climate.atlassian.net/wiki/spaces/CM/pages/3929440257/20230924.v3alpha04+trigrid.piControl.chrysalis) Based on 20230924.v3alpha04_trigrid.piControl.chrysalis except for
+- v3alpha04_trigrid_bgc (https://acme-climate.atlassian.net/wiki/spaces/CM/pages/3951656961/20231012.v3alpha04+trigrid+bgc.piControl.chrysalis) Based on 20230924.v3alpha04_trigrid.piControl.chrysalis except for
   - Land BGC feature
   - Land setting and IC preparation
   - a new custom PE-Layout (100 nodes)
@@ -71,7 +71,7 @@
 - https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_v3b02v3b01_0001_0100/model_vs_model_0001-0100/viewer/
 - https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/diag/diag_v3b02.piControl_v3b01.piControl/
 
-#### v3b01 vs. v3alpha04_trigrid_bgc 
+#### v3b01 vs. v3alpha04_trigrid_bgc (BC/POM wet scavening is significantly changed due to updated kappa_POM ) 
 
 - https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_v3b01v04tribgc_0001_0100/model_vs_model_0001-0050/viewer/
 - https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/diag/diag_v3b01.piControl_v3alpha04_trigrid_bgc.piControl/
