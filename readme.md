@@ -76,12 +76,12 @@
 - https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_v3b01v04tribgc_0001_0100/model_vs_model_0001-0050/viewer/
 - https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/diag/diag_v3b01.piControl_v3alpha04_trigrid_bgc.piControl/
 
-#### v3alpha04_trigrid_bgc vs. v3alpha04_trigrid
+#### v3alpha04_trigrid_bgc vs. v3alpha04_trigrid (significant changes in dust emission/AOD, BC/POM/SOA over biomass burning regions)
 
 - https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_04tribgc04tri_0001_0100/model_vs_model_0001-0100/viewer/
 - https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/diag/diag_v3alpha04_trigrid_bgc.piControl_v3alpha04_trigrid.piControl/
 
-#### v3alpha04_trigrid vs. v3alpha04_bigrid 
+#### v3alpha04_trigrid vs. v3alpha04_bigrid (significant changes in dust emission in multiple regions) 
 
 - https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_04tri04bi_0001_0100/model_vs_model_0001-0100/viewer/
 - https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/diag/diag_v3alpha04_trigrid.piControl_v3alpha04_bigrid.piControl/
