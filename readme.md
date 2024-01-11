@@ -66,7 +66,7 @@
 
 - https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_v3spinupv3b02_0001_0100/model_vs_model_0001-0100/viewer/  
 
-#### v3b02 vs. v3b01 (gustness fix affects dust emission and aod) 
+#### v3b02 vs. v3b01 (gustness fix affects wind-driven aerosol emissions and aod) 
 
 - https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/prod/diag_v3b02v3b01_0001_0100/model_vs_model_0001-0100/viewer/
 - https://web.lcrc.anl.gov/public/e3sm/diagnostic_output/ac.kzhang/diag/diag_v3b02.piControl_v3b01.piControl/
