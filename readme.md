@@ -41,7 +41,7 @@
   - Land BGC feature
   - Land setting and IC preparation
   - a new custom PE-Layout (100 nodes)
-  - atm PR changes
+  - atm PR changes (with updated kappa_POM) 
   - new atm tuning parameter setting: dust_emis_fact =  13.8D0
   - new variables are added for dust emission
   - L80 atm model setting
