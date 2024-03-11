@@ -9,7 +9,7 @@
 
 Results shown these figures show: 
 
-- Overall, sulfate/BC/POM burden changes (relative to piCtrl) are all smaller compared to v2. This will have an impact on the anthropogenic forcing, in addition to the aerosol/cloud tuning changes. 
+- Overall, sulfate/BC/POM burden changes (relative to piCtrl) are all smaller compared to v2. This will have an impact on the anthropogenic forcing, in addition to the aerosol/cloud parameterization and tuning changes (from v2 to v3). 
 - The volcanic emissions have a large impact on sulfate concentrations not only in the stratosphere, but also in troposphere.
 - Large changes in BC/POM burdens in the tropics, which indicates much stronger wet removal by convective clouds.
   
