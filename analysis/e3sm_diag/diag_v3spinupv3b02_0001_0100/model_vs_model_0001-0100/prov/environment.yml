@@ -1,0 +1,4 @@
+name: e3sm_unified_1.9.1_chrysalis
+channels:
+  - defaults
+prefix: /home/ac.kai.zhang/.conda/envs/e3sm_unified_1.9.1_chrysalis

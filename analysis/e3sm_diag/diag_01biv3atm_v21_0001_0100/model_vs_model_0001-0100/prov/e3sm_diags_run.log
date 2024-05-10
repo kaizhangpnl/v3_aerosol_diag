@@ -1,0 +1,63 @@
+2023-10-23 00:42:52,329 [INFO]: aerosol_budget_driver.py(run_diag:135) >> Variable: bc
+2023-10-23 00:42:53,298 [INFO]: aerosol_budget_driver.py(run_diag:135) >> Variable: dst
+2023-10-23 00:42:53,864 [INFO]: aerosol_budget_driver.py(run_diag:135) >> Variable: mom
+2023-10-23 00:42:54,518 [INFO]: aerosol_budget_driver.py(run_diag:135) >> Variable: ncl
+2023-10-23 00:42:55,132 [INFO]: aerosol_budget_driver.py(run_diag:135) >> Variable: pom
+2022023-10-23 00:43:18,062 [INFO]: main.py(create_viewer:130) >> aerosol_aeronet model_vs_model_0001-0100/viewer
+2023-10-23 00:43:18,173 [INFO]: main.py(create_viewer:133) >> ('Aerosol Diags at AERONET sites', 'aerosol_aeronet/index.html')
+2023-10-23 00:43:18,173 [INFO]: main.py(create_viewer:130) >> aerosol_budget model_vs_model_0001-0100/viewer
+2023-10-23 00:43:18,208 [INFO]: main.py(create_viewer:133) >> ('Aerosol Budget Tables', 'aerosol/index.html')
+2023-10-23 00:43:18,213 [INFO]: e3sm_diags_driver.py(main:440) >> Viewer HTML generated at model_vs_model_0001-0100/viewer/index.html
+er.py(run_diag:135) >> Variable: mom
+2023-10-23 00:43:06,016 [INFO]: aerosol_budget_driver.py(run_diag:135) >> Variable: ncl
+2023-10-23 00:43:06,564 [INFO]: aerosol_budget_driver.py(run_diag:135) >> Variable: pom
+2023-10-23 00:43:07,089 [INFO]: aerosol_budget_driver.py(run_diag:135) >> Variable: so4
+2023-10-23 00:43:07,644 [INFO]: aerosol_budget_driver.py(run_diag:135) >> Variable: soa
+2023-10-23 00:43:15,537 [INFO]: aerosol_budget_driver.py(run_diag:201) >> Metrics saved in model_vs_model_0001-0100/aerosol_budget/20230616.v3alpha01.piControl.chrysalis-DJF-budget-table.csv
+2023-10-23 00:43:06,565 [INFO]: aerosol_budget_driver.py(run_diag:135) >> Variable: bc
+2023-10-23 00:43:07,532 [INFO]: aerosol_budget_driver.py(run_diag:135) >> Variable: dst
+2023-10-23 00:43:08,060 [INFO]: aerosol_budget_driver.py(run_diag:135) >> Variable: mom
+2023-10-23 00:43:08,566 [INFO]: aerosol_budget_driver.py(run_diag:135) >> Variable: ncl
+2023-10-23 00:43:09,117 [INFO]: aerosol_budget_driver.py(run_diag:135) >> Variable: pom
+2023-10-23 00:43:09,677 [INFO]: aerosol_budget_driver.py(run_diag:135) >> Variable: so4
+2023-10-23 00:43:10,281 [INFO]: aerosol_budget_driver.py(run_diag:135) >> Variable: soa
+2023-10-23 00:43:18,012 [INFO]: aerosol_budget_driver.py(run_diag:201) >> Metrics saved in model_vs_model_0001-0100/aerosol_budget/20230616.v3alpha01.piControl.chrysalis-SON-budget-table.csv
+-global.png
+2023-10-23 00:42:54,762 [INFO]: aerosol_aeronet_driver.py(run_diag:48) >> Variable: AODVIS
+2023-10-23 00:42:54,785 [INFO]: aerosol_aeronet_driver.py(interpolate_model_output_to_obs_sites:87) >> Interpolate model outputs (on regular lat lon grids) to observational sites
+2023-10-23 00:42:55,019 [INFO]: aerosol_aeronet_driver.py(interpolate_model_output_to_obs_sites:87) >> Interpolate model outputs (on regular lat lon grids) to observational sites
+2023-10-23 00:42:55,044 [WARNING]: warnings.py(_showwarnmsg:109) >> /lcrc/soft/climate/e3sm-unified/base/envs/e3sm_unified_1.9.0_login/lib/python3.10/site-packages/cartopy/mpl/geoaxes.py:871: UserWarning: Attempting to set identical low and high xlims makes transformation singular; automatically expanding.
+  self.set_xlim([x1, x2])
+
+2023-10-23 00:42:55,266 [WARNING]: legend.py(_parse_legend_args:1323) >> No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2023-10-23 00:42:55,644 [INFO]: aerosol_aeronet_plot.py(plot:103) >> Plot saved in: model_vs_model_0001-0100/aerosol_aeronet/model-vs-model/20230224.v3atm_v21.piControl.chrysalis-AODVIS-MAM-global.png
+2023-10-23 00:42:55,665 [INFO]: aerosol_aeronet_driver.py(run_diag:48) >> Variable: AODVIS
+2023-10-23 00:42:55,688 [INFO]: aerosol_aeronet_driver.py(interpolate_model_output_to_obs_sites:87) >> Interpolate model outputs (on regular lat lon grids) to observational sites
+2023-10-23 00:42:56,032 [INFO]: aerosol_aeronet_driver.py(interpolate_model_output_to_obs_sites:87) >> Interpolate model outputs (on regular lat lon grids) to observational sites
+2023-10-23 00:42:56,056 [WARNING]: warnings.py(_showwarnmsg:109) >> /lcrc/soft/climate/e3sm-unified/base/envs/e3sm_unified_1.9.0_login/lib/python3.10/site-packages/cartopy/mpl/geoaxes.py:871: UserWarning: Attempting to set identical low and high xlims makes transformation singular; automatically expanding.
+  self.set_xlim([x1, x2])
+
+2023-10-23 00:42:56,298 [WARNING]: legend.py(_parse_legend_args:1323) >> No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2023-10-23 00:42:56,680 [INFO]: aerosol_aeronet_plot.py(plot:103) >> Plot saved in: model_vs_model_0001-0100/aerosol_aeronet/model-vs-model/20230224.v3atm_v21.piControl.chrysalis-AODVIS-JJA-global.png
+2023-10-23 00:42:56,703 [INFO]: aerosol_aeronet_driver.py(run_diag:48) >> Variable: AODVIS
+2023-10-23 00:42:56,817 [INFO]: aerosol_aeronet_driver.py(interpolate_model_output_to_obs_sites:87) >> Interpolate model outputs (on regular lat lon grids) to observational sites
+2023-10-23 00:42:57,175 [INFO]: aerosol_aeronet_driver.py(interpolate_model_output_to_obs_sites:87) >> Interpolate model outputs (on regular lat lon grids) to observational sites
+2023-10-23 00:42:57,200 [WARNING]: warnings.py(_showwarnmsg:109) >> /lcrc/soft/climate/e3sm-unified/base/envs/e3sm_unified_1.9.0_login/lib/python3.10/site-packages/cartopy/mpl/geoaxes.py:871: UserWarning: Attempting to set identical low and high xlims makes transformation singular; automatically expanding.
+  self.set_xlim([x1, x2])
+
+2023-10-23 00:42:57,454 [WARNING]: legend.py(_parse_legend_args:1323) >> No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2023-10-23 00:42:57,829 [INFO]: aerosol_aeronet_plot.py(plot:103) >> Plot saved in: model_vs_model_0001-0100/aerosol_aeronet/model-vs-model/20230224.v3atm_v21.piControl.chrysalis-AODVIS-SON-global.png
+2023-10-23 00:42:57,851 [INFO]: aerosol_aeronet_driver.py(run_diag:48) >> Variable: AODABS
+2023-10-23 00:42:57,872 [ERROR]: e3sm_diags_driver.py(run_diag:296) >> Error in e3sm_diags.driver.aerosol_aeronet_driver
+Traceback (most recent call last):
+  File "/lcrc/soft/climate/e3sm-unified/base/envs/e3sm_unified_1.9.0_login/lib/python3.10/site-packages/e3sm_diags/e3sm_diags_driver.py", line 293, in run_diag
+    single_result = module.run_diag(parameter)
+  File "/lcrc/soft/climate/e3sm-unified/base/envs/e3sm_unified_1.9.0_login/lib/python3.10/site-packages/e3sm_diags/driver/aerosol_aeronet_driver.py", line 51, in run_diag
+    test = test_data.get_climo_variable(var, season)
+  File "/lcrc/soft/climate/e3sm-unified/base/envs/e3sm_unified_1.9.0_login/lib/python3.10/site-packages/e3sm_diags/driver/utils/dataset.py", line 161, in get_climo_variable
+    variables = self._get_climo_var(filename, *args, **kwargs)
+  File "/lcrc/soft/climate/e3sm-unified/base/envs/e3sm_unified_1.9.0_login/lib/python3.10/site-packages/e3sm_diags/driver/utils/dataset.py", line 353, in _get_climo_var
+    vars_to_func_dict = self._get_first_valid_vars_climo(
+  File "/lcrc/soft/climate/e3sm-unified/base/envs/e3sm_unified_1.9.0_login/lib/python3.10/site-packages/e3sm_diags/driver/utils/dataset.py", line 423, in _get_first_valid_vars_climo
+    raise RuntimeError(msg)
+RuntimeError: Neither does AODABS nor the variables in [('abs550aer',)] exist in the file file:///gpfs/fs1/home/ac.kai.zhang/myw/post_e3sm_diag/v3_aerosol_diag_dev/script/tmp..Phti/climo_test/20230616.v3alpha01.piControl.chrysalis_ANN_000101_010012_climo.nc.
