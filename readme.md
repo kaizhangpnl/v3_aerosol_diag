@@ -8,6 +8,10 @@ https://github.com/kaizhangpnl/v3_aerosol_diag/blob/main/versions.md
 
 https://github.com/kaizhangpnl/v3_aerosol_diag/tree/main/analysis
 
+## 2D geographical distributions 
+
+https://github.com/kaizhangpnl/v3_aerosol_diag/tree/main/analysis/plot_map
+
 
 
 
