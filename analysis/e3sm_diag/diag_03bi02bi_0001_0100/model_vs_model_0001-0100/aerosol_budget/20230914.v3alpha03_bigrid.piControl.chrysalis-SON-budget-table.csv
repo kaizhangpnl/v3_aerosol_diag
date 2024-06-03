@@ -1,0 +1,66 @@
+Test: 20230914.v3alpha03_bigrid.piControl.chrysalis (1-100)
+Ref: 20230622.v3alpha02.piControl.chrysalis (1-100)
+ ,Test,Ref
+Black Carbon
+Surface Emission (Tg/yr),0.82,0.82
+Elevated Emission (Tg/yr),1.32,1.32
+Sink (Tg/yr),2.20,2.21
+Dry Deposition (Tg/yr),0.67,0.69
+Wet Deposition (Tg/yr),1.53,1.51
+Burden (Tg),0.04,0.05
+Lifetime (Days),6.70,7.52
+
+Dust
+Surface Emission (Tg/yr),3180.70,3021.89
+Elevated Emission (Tg/yr),0.00,0.00
+Sink (Tg/yr),3267.43,3107.57
+Dry Deposition (Tg/yr),2320.31,2203.56
+Wet Deposition (Tg/yr),947.12,904.01
+Burden (Tg),26.08,24.75
+Lifetime (Days),2.91,2.91
+
+Marine Organic Matter
+Surface Emission (Tg/yr),14.16,14.49
+Elevated Emission (Tg/yr),0.00,0.00
+Sink (Tg/yr),14.17,14.52
+Dry Deposition (Tg/yr),3.33,3.37
+Wet Deposition (Tg/yr),10.84,11.15
+Burden (Tg),0.07,0.07
+Lifetime (Days),1.76,1.71
+
+Sea Salt
+Surface Emission (Tg/yr),2213.09,2233.33
+Elevated Emission (Tg/yr),0.00,0.00
+Sink (Tg/yr),2229.49,2250.61
+Dry Deposition (Tg/yr),1008.63,1014.52
+Wet Deposition (Tg/yr),1220.85,1236.09
+Burden (Tg),5.24,5.21
+Lifetime (Days),0.86,0.84
+
+Primary Organic Matter
+Surface Emission (Tg/yr),5.20,5.20
+Elevated Emission (Tg/yr),14.25,14.25
+Sink (Tg/yr),20.44,20.47
+Dry Deposition (Tg/yr),6.04,6.25
+Wet Deposition (Tg/yr),14.40,14.22
+Burden (Tg),0.37,0.41
+Lifetime (Days),6.59,7.30
+
+Sulfate
+Surface Emission (Tg/yr),0.04,0.04
+Elevated Emission (Tg/yr),1.25,1.25
+Sink (Tg/yr),63.48,40.20
+Dry Deposition (Tg/yr),15.30,9.41
+Wet Deposition (Tg/yr),48.19,30.79
+Burden (Tg),1.67,1.35
+Lifetime (Days),9.60,12.27
+
+Secondary Organic Aerosol
+Surface Emission (Tg/yr),0.00,0.00
+Elevated Emission (Tg/yr),0.00,0.00
+Sink (Tg/yr),75.70,89.30
+Dry Deposition (Tg/yr),15.96,19.16
+Wet Deposition (Tg/yr),59.74,70.14
+Burden (Tg),1.76,1.88
+Lifetime (Days),8.50,7.67
+
